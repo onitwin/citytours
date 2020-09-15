@@ -6,7 +6,6 @@ import './App.scss';
 function App() {
   return (
   <div>
-  <h1>Howdy from the app COMPONENT</h1>
   <Navbar/>
 </div>
   );
