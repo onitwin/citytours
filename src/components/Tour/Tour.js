@@ -20,7 +20,7 @@ class Tour extends Component{
     return(
         <article className="tour">
         <div className="img-container">
-        <img src={img}/>
+        <img src={img} alt={city}/>
         <span className="close-button" onClick={()=>{removeTour(id)}}><i className="fas fa-window-close"/></span>
         </div>
         <div className="tour-info">
