@@ -9,7 +9,7 @@ function App() {
   <main>
   <Navbar/>
   <TourList/>
-  <h3>This was an app constructed through a tutorial</h3>
+
 </main>
   );
 }
