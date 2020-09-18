@@ -9,7 +9,6 @@ function App() {
   <main>
   <Navbar/>
   <TourList/>
-  <br>
   <h3>This was an app constructed through a tutorial</h3>
 </main>
   );
